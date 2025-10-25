@@ -1,0 +1,5 @@
+Colours:
+Very top of page behind guitarguitar logo: #16232d
+Lighter blue underneath: #1e3242
+Colour used for text: #333
+"New Arrival" background colour: #45c7de
